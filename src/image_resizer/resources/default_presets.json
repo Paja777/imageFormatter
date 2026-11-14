@@ -1,0 +1,13 @@
+{
+  "presets": [
+    {"id": "full-hd", "name": "Full HD", "width": 1920, "height": 1080},
+    {"id": "hd", "name": "HD", "width": 1280, "height": 720},
+    {"id": "square", "name": "Square", "width": 1080, "height": 1080},
+    {"id": "portrait", "name": "Portrait", "width": 1080, "height": 1350},
+    {"id": "story-reel", "name": "Story / Reel", "width": 1080, "height": 1920},
+    {"id": "web-banner", "name": "Web Banner", "width": 1200, "height": 628},
+    {"id": "website-hero", "name": "Website Hero", "width": 1920, "height": 600},
+    {"id": "thumbnail", "name": "Thumbnail", "width": 400, "height": 400},
+    {"id": "small-thumbnail", "name": "Small Thumbnail", "width": 150, "height": 150}
+  ]
+}
